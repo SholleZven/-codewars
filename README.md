@@ -18,6 +18,7 @@
 
   - [Take_a_ten_minute_walk](solutions/6kyu/Take_a_ten_minute_walk)
   - [Pokemon_Damage_Calculator](solutions/6kyu/Pokemon_Damage_Calculator)
-  - [Good_vs_Evil](solution/6kyu/Good_vs_Evil)
+  - [Good_vs_Evil](solutions/6kyu/Good_vs_Evil)
+  - [Two_Sum](solutions/6kyu/Two_Sum)
 
 - 5kyu
