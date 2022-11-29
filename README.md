@@ -6,7 +6,7 @@
 - 3kyu, 4kyu - Компетентный
 - 1kyu, 2kyu - Умелец
 
-[Мой текущий ранг 5 kyu](https://www.codewars.com/users/SholleZven):
+[Мой текущий ранг](https://www.codewars.com/users/SholleZven):
 
 ![](https://www.codewars.com/users/SholleZven/badges/large)
 
@@ -18,5 +18,6 @@
 
   - [Take_a_ten_minute_walk](solutions/6kyu/Take_a_ten_minute_walk)
   - [Pokemon_Damage_Calculator](solutions/6kyu/Pokemon_Damage_Calculator)
+  - [Good_vs_Evil](solution/6kyu/Good_vs_Evil)
 
 - 5kyu
