@@ -20,5 +20,9 @@
   - [Pokemon_Damage_Calculator](solutions/6kyu/Pokemon_Damage_Calculator)
   - [Good_vs_Evil](solutions/6kyu/Good_vs_Evil)
   - [Two_Sum](solutions/6kyu/Two_Sum)
+  - [Replace_With_Alphabet_Position](solutions/6kyu/Replace_With_Alphabet_Position)
+  - [Find_the_unique_number](solutions/6kyu/Find_the_unique_number)
 
 - 5kyu
+
+  -[Human_Readable_Time](solutions/5kyu/Human_Readable_Time)
