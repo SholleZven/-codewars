@@ -25,4 +25,4 @@
 
 - 5kyu
 
-  -[Human_Readable_Time](solutions/5kyu/Human_Readable_Time)
+  - [Human_Readable_Time](solutions/5kyu/Human_Readable_Time)
