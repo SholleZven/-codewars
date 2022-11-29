@@ -17,5 +17,6 @@
 - 6kyu
 
   - [Take_a_ten_minute_walk](solutions/6kyu/Take_a_ten_minute_walk)
+  - [Pokemon_Damage_Calculator](solutions/6kyu/Pokemon_Damage_Calculator)
 
 - 5kyu
